@@ -1,8 +1,8 @@
 # Projeto de Consumo de API - Rick and Morty
 
-Este é um projeto acadêmico criado para aprofundar os estudos sobre consumo de API's. O projeto é baseado na popular série de animação "Rick and Morty", trazendo informações sobre os personagens;
+Este é um projeto acadêmico criado para aprofundar os estudos sobre consumo de API's. O projeto é uma wiki dos peronsagens da popular série de animação "Rick and Morty",;
 
-## Origens do Design
+## Design da interface
 
 O design da página foi inspirado em um arquivo da própria comunidade no Figma, que pode ser encontrado [aqui](https://www.figma.com/community/file/979477099633946456/rick-and-morty-web-responsive).
 
@@ -10,7 +10,7 @@ O design da página foi inspirado em um arquivo da própria comunidade no Figma,
 
 O projeto oferece as seguintes funcionalidades:
 
-- **Pesquisa de Personagem:** Os usuários podem pesquisar personagens pelo nome, obtendo informações detalhadas sobre eles.
+- **Pesquisa de Personagem:** Os usuários podem pesquisar personagens pelo nome, obtendo informações sobre eles.
 
 - **Filtragem de Personagem:** É possível filtrar personagens com base em diferentes critérios, como espécie, status, gênero, etc.
 
